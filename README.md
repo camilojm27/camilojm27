@@ -1,7 +1,8 @@
 ### Hi there 👋
 I am a student of software and computer engineering at University of Valle - COL 🇨🇴 / Platzi 🚀
 
-- 🌱 I’m currently learning Web development / Mobile
+- 👾 Web developer, React JS, NodeJS, and More
+- 🌱 Learning every day
 - ⚡ I love sports specially swimming
 
 <!--
