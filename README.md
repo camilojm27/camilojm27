@@ -2,7 +2,7 @@
 I am a student of software and computer engineering at University of Valle - COL 🇨🇴 / Platzi 🚀
 
 - 👾 Web developer, React JS, NodeJS, and More
-- 🌱 Learning every day
+- 🌱 Learning every day (Right now [Laravel](https://laravel.com/))
 - ⚡ I love sports specially swimming
 
 <!--
