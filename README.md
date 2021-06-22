@@ -1,7 +1,10 @@
 ### Hi there 🇬🇧
 
 Welcolme to my profile: I'm a Web Developer 👾, mainly focused arond the JavaScript ecosystem like React.JS and Node.JS, also i feel confortable working with relational and no relational databases.
-My Star  Project it's an E-commer, made with the tecnologies mencioned above and deployed with Firebase, there are some features still on development. https://celina-tienda.web.app/  (It's for a real client)
+My Star Project  🌟 it's an E-commerce, made with the tecnologies mencioned above and deployed with Firebase, there are some features still on development. https://celina-tienda.web.app/  (It's for a real client)
+
+Ahh i also can work with Next.JS and know the fundamentals of React Native.
+
 
 I am a student of Software and Computer Engineering at University of Valle, Cali - COL 🇨🇴 / [Platzi](https://platzi.com/p/camilojm27) 🚀 
 But i'm also looking for a job oportunity half or full-time.
