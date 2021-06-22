@@ -1,13 +1,33 @@
-### Hi there 👋
-I am a student of software and computer engineering at University of Valle - COL 🇨🇴 / Platzi 🚀
+### Hi there 🇬🇧
 
-- 👾 Web developer, React JS, NodeJS, and More
+Welcolme to my profile: I'm a Web Developer 👾, mainly focused arond the JavaScript ecosystem like React.JS and Node.JS, also i feel confortable working with relational and no relational databases.
+My Star  Project it's an E-commer, made with the tecnologies mencioned above and deployed with Firebase, there are some features still on development. https://celina-tienda.web.app/  (It's for a real client)
+
+I am a student of Software and Computer Engineering at University of Valle, Cali - COL 🇨🇴 / [Platzi](https://platzi.com/p/camilojm27) 🚀 
+But i'm also looking for a job oportunity half or full-time.
+
 - 🌱 Learning every day (Right now [Laravel](https://laravel.com/))
 - ⚡ I love sports specially swimming
 
+<hr />
+
+### Hola! 🇪🇸 🇨🇴 
+
+Bienvenid@ a mi perfil: Soy desarrollador web, enfocado principalmente en el entor de las tecnologias al rededor de JavaScript como los son de React.JS y Node, ademas me siento comodo trabajando con bases de datos relacionales y no relacionales.
+
+Mi proyecto personal estrella 🌟 es un E-Commerce, Realizado con las tecnologias mencionadas y desplegado en firebase, aun están en desarrollo algunas funciones. https://celina-tienda.web.app/ (Es para un cliente real)
+
+Ah tambien manejo Next.js y Los concepos de React Native.
+
+Soy estudiante de Ingeniería de Sistemas y Computación en la Universidad del Valle, Cali - COL 🇨🇴 / [Platzi](https://platzi.com/p/camilojm27) 🚀 
+Tambien estoy buscando una oportunidad de trabajo medio timpo o timpo completo.
+
+- 🌱 Aprendiendo cada dia (Ahora mismo [Laravel](https://laravel.com/))
+- ⚡ Amo los deportes en especial la natacion 
 
 
 <hr />
+
 <h3>🛠 Tecnologies</h3>
 
 ![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
