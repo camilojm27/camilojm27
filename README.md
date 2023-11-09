@@ -1,33 +1,12 @@
-### Hi there 🇬🇧
+### Hi there
 
-Welcolme to my profile: I'm a Web Developer 👾, mainly focused arond the JavaScript ecosystem like React.JS and Node.JS, also i feel confortable working with relational and no relational databases.
-My Star Project  🌟 it's an E-commerce, made with the tecnologies mencioned above and deployed with Firebase, there are some features still on development. https://celina-tienda.web.app/  (It's for a real client)
-
-Ahh i also can work with Next.JS and know the fundamentals of React Native.
+I am a software developer with experience in various imperative and object-oriented programming languages, such as C++, JavaScript, Java, and Python. I am passionate about creating innovative and efficient solutions for different problems and needs. I have the ability to work with SQL databases like Postgres and MongoDB, as well as design and implement user interfaces using tools like Figma. Additionally, I have extensive knowledge of Linux, which I have been using since the age of 12, and I am comfortable with the use of the terminal and basic commands. I can deploy applications on platforms like AWS and Azure and am certified with Azure AZ-900.
 
 
-I am a student of Software and Computer Engineering at University of Valle, Cali - COL 🇨🇴 / [Platzi](https://platzi.com/p/camilojm27) 🚀 
-But i'm also looking for a job oportunity half or full-time.
+My Star personal Project  🌟 it's an E-commerce, made with NodeJS, NextJS, and Firebase there are some features still on development. https://celina-tienda.web.app/
 
-- 🌱 Learning every day (Right now [Laravel](https://laravel.com/))
+- 🌱 Learning every day (Right now [RabbitMQ](https://laravel.com/) and [Laravel](https://laravel.com/) for my undergraduate thesis)
 - ⚡ I love sports specially swimming
-
-<hr />
-
-### Hola! 🇪🇸 🇨🇴 
-
-Bienvenid@ a mi perfil: Soy desarrollador web, enfocado principalmente en el entor de las tecnologias al rededor de JavaScript como los son de React.JS y Node, ademas me siento comodo trabajando con bases de datos relacionales y no relacionales.
-
-Mi proyecto personal estrella 🌟 es un E-Commerce, Realizado con las tecnologias mencionadas y desplegado en firebase, aun están en desarrollo algunas funciones. https://celina-tienda.web.app/ (Es para un cliente real)
-
-Ah tambien manejo Next.js y Los concepos de React Native.
-
-Soy estudiante de Ingeniería de Sistemas y Computación en la Universidad del Valle, Cali - COL 🇨🇴 / [Platzi](https://platzi.com/p/camilojm27) 🚀 
-Tambien estoy buscando una oportunidad de trabajo medio timpo o timpo completo.
-
-- 🌱 Aprendiendo cada dia (Ahora mismo [Laravel](https://laravel.com/))
-- ⚡ Amo los deportes en especial la natacion 
-
 
 <hr />
 
