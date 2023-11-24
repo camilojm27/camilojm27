@@ -5,7 +5,7 @@ I am a software developer with experience in various imperative and object-orien
 
 My Star personal Project  🌟 it's an E-commerce, made with NodeJS, NextJS, and Firebase there are some features still on development. https://celina-tienda.web.app/
 
-- 🌱 Learning every day (Right now [RabbitMQ](https://laravel.com/) and [Laravel](https://laravel.com/) for my undergraduate thesis)
+- 🌱 Right now Developing my undergraduate thesis whith [RabbitMQ](https://laravel.com/) and [Laravel](https://laravel.com/)
 - ⚡ I love sports specially swimming
 
 <hr />
